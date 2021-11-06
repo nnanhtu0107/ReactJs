@@ -1,0 +1,23 @@
+{
+  "name": "tudev-frontend-service",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnanhtu0107/ReactJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnanhtu0107/ReactJs/issues"
+  },
+  "homepage": "https://github.com/nnanhtu0107/ReactJs#readme",
+  "description": ""
+}
